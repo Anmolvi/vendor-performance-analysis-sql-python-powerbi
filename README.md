@@ -136,5 +136,5 @@ vendor-performance-analysis/
 ## 👤 Author & Contact
 **Anmol Virdi**  
 📧 Email: [anmolvirdi.av@gmail.com](mailto:anmolvirdi.av@gmail.com)  
-
 🔗 LinkedIn: [anmol-virdi-bb4706186](https://www.linkedin.com/in/anmol-virdi-bb4706186/)
+

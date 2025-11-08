@@ -5,7 +5,7 @@ _🚀 A comprehensive analysis of vendor efficiency, profitability, and inventor
 
 ---
 
-## 📘 Proejct Overview
+## 📘 Project Overview
 
 _This project focuses on identifying **high-performing vendors**, analyzing **profit margins**, and optimizing **inventory turnover**._
 
@@ -136,4 +136,5 @@ vendor-performance-analysis/
 ## 👤 Author & Contact
 **Anmol Virdi**  
 📧 Email: [anmolvirdi.av@gmail.com](mailto:anmolvirdi.av@gmail.com)  
+
 🔗 LinkedIn: [anmol-virdi-bb4706186](https://www.linkedin.com/in/anmol-virdi-bb4706186/)
